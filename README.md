@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 -->
 
 
-## Tecnologias en las cuales trabajo actualmente
+<!-- ## Tecnologias en las cuales trabajo actualmente
 
 |Tecnologias|:cyclone:|ss|
 |:----------|:----------|:-------|
 |![JS](/assets/js-javascript-logo-hd-png-download.png)|![HTML](/assets/HTML5_logo_and_wordmark.svg.png)|![TS](/assets/typescript-ico.png)|
 |![React](/assets/react-1-logo.png)|![Next](/assets/next-js-logo.png)|![Git](/assets/git-logo.png)|
-|![Node](/assets/nodejs-logo.png)|![Express](/assets/express-logo.png)|![Docker](/assets/docker-ico.png)|
-|
+|![Node](/assets/nodejs-logo.png)|![Express](/assets/express-logo.png)|![Docker](/assets/docker-ico.png)| -->
+
 
 
 
