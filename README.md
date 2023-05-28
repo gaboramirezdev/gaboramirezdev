@@ -9,6 +9,10 @@
 
 [Duck Duck Go](https://duckduckgo.com). -->
 
+<!-- <div class="pull-left">
+<img
+src='./assets/docker-ico.png'/>
+</div> -->
 
 
 <!--
@@ -25,3 +29,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Tecnologias en las cuales trabajo actualmente
+
+|Tecnologias|:cyclone:|ss|
+|:----------|:----------|:-------|
+|![JS](/assets/js-javascript-logo-hd-png-download.png)|![HTML](/assets/HTML5_logo_and_wordmark.svg.png)|![TS](/assets/typescript-ico.png)|
+|![React](/assets/react-1-logo.png)|![Next](/assets/next-js-logo.png)|![Git](/assets/git-logo.png)|
+|![Node](/assets/nodejs-logo.png)|![Express](/assets/express-logo.png)|![Docker](/assets/docker-ico.png)|
+|
+
+
+
+
+
